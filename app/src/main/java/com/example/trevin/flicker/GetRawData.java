@@ -1,7 +1,7 @@
 package com.example.trevin.flicker;
 
 /**
- * Created by Trevin on 12/27/2015.
+ * Created by Trevin on 12/27/2015.  This is a test branch
  */
 enum DownloadStatus{IDLE, PROCESSING, NOT_INITIALIZED, FAILED_OR_EMPTY, OK}
 
